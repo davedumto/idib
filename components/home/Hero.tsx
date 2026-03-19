@@ -63,7 +63,7 @@ const Hero = () => {
       <div
         ref={contentRef}
         className="absolute inset-0 flex flex-col justify-center items-center text-white z-20 px-6">
-        <h1 className="text-4xl md:text-6xl lg:text-7xl font-light mb-6 text-center">EMMA ROSE</h1>
+        <h1 className="text-4xl md:text-6xl lg:text-7xl font-light mb-6 text-center">IDIB</h1>
         <p className="text-xl md:text-2xl font-light tracking-wide mb-10 text-center">PHOTOGRAPHY</p>
         <Link
           href="/portfolio"

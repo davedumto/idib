@@ -45,7 +45,7 @@ const HomePage = () => {
             Capturing Timeless Moments
           </h2>
           <p className="text-gray-600 leading-relaxed mb-10 font-light">
-            I&apos;m Emma Rose, a professional photographer specializing in weddings,
+            I&apos;m IDIB, a professional photographer specializing in weddings,
             portraits, and commercial photography. With an artistic eye for
             detail and a passion for storytelling, I create authentic,
             emotion-filled images that will be cherished for generations.

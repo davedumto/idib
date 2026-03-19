@@ -25,7 +25,7 @@ const Footer = () => {
         <div className="footer-content grid grid-cols-1 md:grid-cols-3 gap-12">
           <div className="space-y-4">
             <Link href="/" className="text-2xl font-light tracking-widest">
-              EMMA ROSE
+              IDIB
             </Link>
             <p className="text-gray-600 font-light max-w-xs">
               Capturing life&apos;s most precious moments with an artistic eye and timeless elegance.
@@ -62,7 +62,7 @@ const Footer = () => {
           </div>
         </div>
         <div className="mt-12 pt-8 border-t border-gray-200 text-center text-gray-500 text-sm font-light">
-          <p>© {new Date().getFullYear()} Emma Rose Photography. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} IDIB Photography. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -6,7 +6,7 @@ import Cursor from '@/components/common/Cursor'
 import GsapProvider from '@/components/GsapProvider'
 
 export const metadata: Metadata = {
-  title: 'Emma Rose Photography',
+  title: 'IDIB Photography',
   description: 'Professional photography services — weddings, portraits, and commercial photography.',
 }
 

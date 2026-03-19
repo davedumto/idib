@@ -49,7 +49,7 @@ const Navbar = () => {
       className={`fixed w-full z-50 transition-all duration-300 ${scrolled ? 'bg-white/90 backdrop-blur-md py-4 shadow-sm' : 'bg-transparent py-6'}`}>
       <div className="container mx-auto px-6 flex justify-between items-center">
         <Link href="/" className="text-2xl font-light tracking-widest">
-          EMMA ROSE
+          IDIB
         </Link>
         <nav className="hidden md:flex space-x-8">
           {['/', '/portfolio', '/about', '/services', '/contact'].map((path, index) => (

@@ -58,7 +58,7 @@ const AboutPage = () => {
             <div className="aspect-[3/4] overflow-hidden">
               <img
                 src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?q=80&w=800&auto=format&fit=crop"
-                alt="Emma Rose, Photographer"
+                alt="IDIB, Photographer"
                 className="w-full h-full object-cover"
               />
             </div>
